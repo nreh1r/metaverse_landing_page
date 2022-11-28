@@ -1,3 +1,11 @@
+# Metaverse Landing Page
+
+This is a landing page that I built to get comfortable with Next.js 13. This project uses Next.js 13 along with framer-motion and tailwind css to seamlessely integrate the animations and styling for the page.
+
+#### Due to Next.js 13 being in beta a live version is extremely buggy and will be made available when a more stable version of Next.js 13 is released.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
